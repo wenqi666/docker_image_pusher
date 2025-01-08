@@ -9,4 +9,5 @@
 # tdengine/tdengine:3.3.2.0
 # postgis/postgis:16-3.5-alpine
 # ubuntu:22.04
-node:14.18.1
+# node:14.18.1
+mysql:5.7.44
