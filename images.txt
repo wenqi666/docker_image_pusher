@@ -13,4 +13,5 @@
 # mysql:5.7.44
 # postgis/postgis:17-3.5
 # certbot/certbot
-minio/minio:latest
+# minio/minio:latest
+minio/minio:RELEASE.2025-04-22T22-12-26Z
